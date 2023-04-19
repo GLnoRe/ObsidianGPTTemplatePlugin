@@ -1,0 +1,2 @@
+# ObsidianGPTTemplatePlugin
+Take a template 
